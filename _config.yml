@@ -1,0 +1,14 @@
+layout_spectrum: 0.8680851
+color:
+  saturation: 0.9978724
+  lightness: 0.7553192
+  brandStrength: 0.4792314
+  brandColors:
+    - '#FFFFFF'
+    - '#111320'
+    - '#62707D'
+    - '#374957'
+    - '#A5A4A9'
+  rhythmicContrast: 1
+typography_spectrum: 0.4038065
+name: BeAlford
